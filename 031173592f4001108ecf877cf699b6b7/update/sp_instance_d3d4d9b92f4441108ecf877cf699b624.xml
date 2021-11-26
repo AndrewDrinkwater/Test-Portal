@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>tasks</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">1fd4d9b92f4441108ecf877cf699b612</sp_column>
+        <sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>andrew.drinkwater</sys_created_by>
+        <sys_created_on>2021-11-26 12:23:13</sys_created_on>
+        <sys_id>d3d4d9b92f4441108ecf877cf699b624</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="Test Portal" source="x_678201_test_po_0">031173592f4001108ecf877cf699b6b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Portal">031173592f4001108ecf877cf699b6b7</sys_scope>
+        <sys_update_name>sp_instance_d3d4d9b92f4441108ecf877cf699b624</sys_update_name>
+        <sys_updated_by>andrew.drinkwater</sys_updated_by>
+        <sys_updated_on>2021-11-26 12:23:13</sys_updated_on>
+        <title>News</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d3d4d9b92f4441108ecf877cf699b624"/>
+</record_update>
