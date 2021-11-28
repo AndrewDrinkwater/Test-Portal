@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open CICD Home page in the CICD Test Portal portal</description>
+        <display_name>Open Service Portal Page</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Open Service Portal Page">fc7e65d577332300e46abe41a9106106</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>andrew.drinkwater</sys_created_by>
+        <sys_created_on>2021-11-27 21:32:42</sys_created_on>
+        <sys_id>1a0c109a2f8001108ecf877cf699b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Service Portal Page</sys_name>
+        <sys_package display_value="Test Portal" source="x_678201_test_po_0">031173592f4001108ecf877cf699b6b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Portal">031173592f4001108ecf877cf699b6b7</sys_scope>
+        <sys_update_name>sys_atf_step_1a0c109a2f8001108ecf877cf699b66a</sys_update_name>
+        <sys_updated_by>andrew.drinkwater</sys_updated_by>
+        <sys_updated_on>2021-11-27 21:32:42</sys_updated_on>
+        <table/>
+        <test display_value="CICDTP: Portal Checks">82eb5c5a2f8001108ecf877cf699b6e7</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=1a0c109a2f8001108ecf877cf699b66a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>1a0c109a2f8001108ecf877cf699b66a</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>andrew.drinkwater</sys_created_by>
+        <sys_created_on>2021-11-27 21:32:42</sys_created_on>
+        <sys_id>023cd09a2f8001108ecf877cf699b609</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>andrew.drinkwater</sys_updated_by>
+        <sys_updated_on>2021-11-27 21:32:42</sys_updated_on>
+        <value/>
+        <variable display_value="Query parameters">839e29d577332300e46abe41a9106134</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>1a0c109a2f8001108ecf877cf699b66a</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>andrew.drinkwater</sys_created_by>
+        <sys_created_on>2021-11-27 21:32:42</sys_created_on>
+        <sys_id>4a3cd09a2f8001108ecf877cf699b608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>andrew.drinkwater</sys_updated_by>
+        <sys_updated_on>2021-11-27 21:32:42</sys_updated_on>
+        <value>0fd499b92f4441108ecf877cf699b6b0</value>
+        <variable display_value="Page">ca8ea5d577332300e46abe41a91061b6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>1a0c109a2f8001108ecf877cf699b66a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>andrew.drinkwater</sys_created_by>
+        <sys_created_on>2021-11-27 21:32:42</sys_created_on>
+        <sys_id>c23cd09a2f8001108ecf877cf699b609</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>andrew.drinkwater</sys_updated_by>
+        <sys_updated_on>2021-11-27 21:32:42</sys_updated_on>
+        <value>ce9b30e12f4401108ecf877cf699b636</value>
+        <variable display_value="Portal">5a7e65d577332300e46abe41a91061cb</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_fc7e65d577332300e46abe41a9106106^id=1a0c109a2f8001108ecf877cf699b66a"/>
+</record_update>
